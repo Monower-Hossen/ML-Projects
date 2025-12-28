@@ -142,10 +142,7 @@ The Random Forest model demonstrates strong predictive performance and generaliz
 ## 📸 App Screenshots
 
 ### Manual Input Mode
-![Manual Input](screenshots/manual_input.png)
-
-### CSV Upload Mode
-![CSV Upload](screenshots/csv_upload.png)
+![Manual Input](screenshots/car_price_app.png)
 
 
 ## 📜 License
